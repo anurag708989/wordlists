@@ -1,0 +1,15 @@
+SPF:
+Sender policy framework record is a type of DNS record that identifies which mail servers are permitted to send email on behalf of your domain.
+The purpose of record is to prevent spammers from sending messages with forged from addresses at your domain
+
+Steps to reproduce or check the spf record
+
+  1. Visit  http://www.kitterman.com/spf/validate/html
+  2. now type www.cengage.com in search option
+  3. hit spf records button 
+
+poc: screenshot of kitterman.com showing spf record not found for your website
+# Social Enginnering: attacker can use this for social enginnering they can target students ,facutly members and they can redirect them to a custom website for:
+# phishing
+# spoofing
+they can get sensitive information such as username,password etc via social enginnering
